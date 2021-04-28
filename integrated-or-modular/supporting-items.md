@@ -17,6 +17,7 @@ You are going to have items that common or optional to all scenarios.
 - meds, sun screen, bug spray
 - sanitary stuff
 - hand out about amateur radio
+- head light
 
 ## Homework
 
